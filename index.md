@@ -1,7 +1,7 @@
-Rules as Specified
+Rules as Specified — A Manifesto
 ---
 
-Considering the two common approaches:
+Playing board games and tabletop role-playing games often involves two common interpretive approaches:
 
 - _Rules as Intended_ (**RAI**): the intention itself may not always be clear.
 - _Rules as Written_ (**RAW**):the wording may be ambiguous.
