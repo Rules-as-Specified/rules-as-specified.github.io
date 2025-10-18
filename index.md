@@ -2,7 +2,6 @@ Rules as Specified — A Manifesto
 ---
 
 ![ras](ras.png)
-(I will update it when GPT can draw `τ ⊨ ϕ` correctly.)
 
 Playing board games and tabletop role-playing games often involves two common interpretive approaches:
 
